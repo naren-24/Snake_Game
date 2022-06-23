@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/38709923/why-is-requestanimationframe-better-than-setinterval-or-settimeout#:~:text=requestAnimationFrame%20produces%20higher%20quality%20animation,or%20completely%20remove%20frame%20skips.
